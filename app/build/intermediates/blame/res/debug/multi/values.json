@@ -1,0 +1,1457 @@
+[
+    {
+        "outputFile": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 52,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 38,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endColumn": 43,
+                    "endOffset": 231
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 236,
+                    "endColumn": 39,
+                    "endOffset": 271
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 276,
+                    "endColumn": 38,
+                    "endOffset": 310
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 315,
+                    "endColumn": 45,
+                    "endOffset": 356
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 361,
+                    "endColumn": 46,
+                    "endOffset": 403
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 408,
+                    "endColumn": 43,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 452,
+                    "endColumn": 37,
+                    "endOffset": 485
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 490,
+                    "endColumn": 41,
+                    "endOffset": 527
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 532,
+                    "endColumn": 52,
+                    "endOffset": 580
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 585,
+                    "endColumn": 40,
+                    "endOffset": 621
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 626,
+                    "endColumn": 44,
+                    "endOffset": 666
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 671,
+                    "endColumn": 40,
+                    "endOffset": 707
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 712,
+                    "endColumn": 41,
+                    "endOffset": 749
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 754,
+                    "endColumn": 40,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 795,
+                    "endColumn": 48,
+                    "endOffset": 839
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 844,
+                    "endColumn": 45,
+                    "endOffset": 885
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 890,
+                    "endColumn": 48,
+                    "endOffset": 934
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 939,
+                    "endColumn": 86,
+                    "endOffset": 1021
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1026,
+                    "endColumn": 82,
+                    "endOffset": 1104
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1109,
+                    "endColumn": 100,
+                    "endOffset": 1205
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1210,
+                    "endColumn": 81,
+                    "endOffset": 1287
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1292,
+                    "endColumn": 93,
+                    "endOffset": 1381
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1386,
+                    "endColumn": 129,
+                    "endOffset": 1511
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1516,
+                    "endColumn": 74,
+                    "endOffset": 1586
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1591,
+                    "endColumn": 76,
+                    "endOffset": 1663
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1668,
+                    "endColumn": 136,
+                    "endOffset": 1800
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1805,
+                    "endColumn": 54,
+                    "endOffset": 1855
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1860,
+                    "endColumn": 46,
+                    "endOffset": 1902
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1907,
+                    "endColumn": 115,
+                    "endOffset": 2018
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2023,
+                    "endColumn": 92,
+                    "endOffset": 2111
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2116,
+                    "endColumn": 123,
+                    "endOffset": 2235
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2240,
+                    "endColumn": 82,
+                    "endOffset": 2318
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2323,
+                    "endColumn": 82,
+                    "endOffset": 2401
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2406,
+                    "endColumn": 97,
+                    "endOffset": 2499
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2504,
+                    "endColumn": 74,
+                    "endOffset": 2574
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2579,
+                    "endColumn": 72,
+                    "endOffset": 2647
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2652,
+                    "endColumn": 78,
+                    "endOffset": 2726
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2731,
+                    "endColumn": 86,
+                    "endOffset": 2813
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2818,
+                    "endColumn": 86,
+                    "endOffset": 2900
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2905,
+                    "endColumn": 79,
+                    "endOffset": 2980
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2985,
+                    "endColumn": 85,
+                    "endOffset": 3066
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3071,
+                    "endColumn": 106,
+                    "endOffset": 3173
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3178,
+                    "endColumn": 75,
+                    "endOffset": 3249
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3254,
+                    "endColumn": 101,
+                    "endOffset": 3351
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3356,
+                    "endColumn": 95,
+                    "endOffset": 3447
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3452,
+                    "endColumn": 105,
+                    "endOffset": 3553
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3558,
+                    "endColumn": 133,
+                    "endOffset": 3687
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3692,
+                    "endColumn": 103,
+                    "endOffset": 3791
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3796,
+                    "endColumn": 89,
+                    "endOffset": 3881
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3886,
+                    "endColumn": 89,
+                    "endOffset": 3971
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3976,
+                    "endColumn": 68,
+                    "endOffset": 4040
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4045,
+                    "endColumn": 65,
+                    "endOffset": 4106
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4111,
+                    "endColumn": 41,
+                    "endOffset": 4148
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4153,
+                    "endColumn": 47,
+                    "endOffset": 4196
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4201,
+                    "endColumn": 47,
+                    "endOffset": 4244
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4249,
+                    "endColumn": 56,
+                    "endOffset": 4301
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4306,
+                    "endColumn": 65,
+                    "endOffset": 4367
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4372,
+                    "endColumn": 74,
+                    "endOffset": 4442
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 4447,
+                    "endColumn": 70,
+                    "endOffset": 4513
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 4518,
+                    "endColumn": 68,
+                    "endOffset": 4582
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4587,
+                    "endColumn": 73,
+                    "endOffset": 4656
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4661,
+                    "endColumn": 50,
+                    "endOffset": 4707
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4712,
+                    "endColumn": 55,
+                    "endOffset": 4763
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 4768,
+                    "endColumn": 37,
+                    "endOffset": 4801
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 4806,
+                    "endColumn": 61,
+                    "endOffset": 4863
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 4868,
+                    "endColumn": 45,
+                    "endOffset": 4909
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 4914,
+                    "endColumn": 61,
+                    "endOffset": 4971
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 4976,
+                    "endColumn": 55,
+                    "endOffset": 5027
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 5032,
+                    "endColumn": 43,
+                    "endOffset": 5071
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 5076,
+                    "endColumn": 53,
+                    "endOffset": 5125
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 5130,
+                    "endColumn": 69,
+                    "endOffset": 5195
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 5200,
+                    "endLine": 79,
+                    "endColumn": 12,
+                    "endOffset": 5412
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 5417,
+                    "endLine": 84,
+                    "endColumn": 12,
+                    "endOffset": 5768
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 5773,
+                    "endLine": 87,
+                    "endColumn": 12,
+                    "endOffset": 5964
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 5969,
+                    "endLine": 90,
+                    "endColumn": 12,
+                    "endOffset": 6162
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 6167,
+                    "endLine": 97,
+                    "endColumn": 12,
+                    "endOffset": 6474
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 6479,
+                    "endLine": 111,
+                    "endColumn": 12,
+                    "endOffset": 7214
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 7219,
+                    "endLine": 121,
+                    "endColumn": 12,
+                    "endOffset": 7701
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 7706,
+                    "endLine": 127,
+                    "endColumn": 12,
+                    "endOffset": 7991
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 7996,
+                    "endLine": 141,
+                    "endColumn": 12,
+                    "endOffset": 8756
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 8761,
+                    "endLine": 151,
+                    "endColumn": 12,
+                    "endOffset": 9247
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 9252,
+                    "endLine": 165,
+                    "endColumn": 12,
+                    "endOffset": 9951
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 9956,
+                    "endLine": 180,
+                    "endColumn": 12,
+                    "endOffset": 10715
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 436,
+                        "startColumn": 4,
+                        "startOffset": 21750,
+                        "endLine": 450,
+                        "endColumn": 12,
+                        "endOffset": 22523
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 10720,
+                    "endLine": 194,
+                    "endColumn": 12,
+                    "endOffset": 11424
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 452,
+                        "startColumn": 4,
+                        "startOffset": 22531,
+                        "endLine": 465,
+                        "endColumn": 12,
+                        "endOffset": 23248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 11429,
+                    "endLine": 199,
+                    "endColumn": 12,
+                    "endOffset": 11650
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 11655,
+                    "endLine": 206,
+                    "endColumn": 12,
+                    "endOffset": 11975
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 11980,
+                    "endLine": 221,
+                    "endColumn": 12,
+                    "endOffset": 12779
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 12784,
+                    "endLine": 236,
+                    "endColumn": 12,
+                    "endOffset": 13606
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 237,
+                    "startColumn": 4,
+                    "startOffset": 13611,
+                    "endLine": 249,
+                    "endColumn": 12,
+                    "endOffset": 14305
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 250,
+                    "startColumn": 4,
+                    "startOffset": 14310,
+                    "endLine": 262,
+                    "endColumn": 12,
+                    "endOffset": 15020
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 263,
+                    "startColumn": 4,
+                    "startOffset": 15025,
+                    "endLine": 274,
+                    "endColumn": 12,
+                    "endOffset": 15632
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 275,
+                    "startColumn": 4,
+                    "startOffset": 15637,
+                    "endLine": 281,
+                    "endColumn": 12,
+                    "endOffset": 15985
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 15990,
+                    "endLine": 289,
+                    "endColumn": 12,
+                    "endOffset": 16395
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 16400,
+                    "endLine": 302,
+                    "endColumn": 12,
+                    "endOffset": 17072
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 303,
+                    "startColumn": 4,
+                    "startOffset": 17077,
+                    "endLine": 314,
+                    "endColumn": 12,
+                    "endOffset": 17715
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 315,
+                    "startColumn": 4,
+                    "startOffset": 17720,
+                    "endLine": 325,
+                    "endColumn": 12,
+                    "endOffset": 18269
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 326,
+                    "startColumn": 4,
+                    "startOffset": 18274,
+                    "endLine": 336,
+                    "endColumn": 12,
+                    "endOffset": 18824
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 337,
+                    "startColumn": 4,
+                    "startOffset": 18829,
+                    "endLine": 347,
+                    "endColumn": 12,
+                    "endOffset": 19386
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 348,
+                    "startColumn": 4,
+                    "startOffset": 19391,
+                    "endLine": 363,
+                    "endColumn": 12,
+                    "endOffset": 20235
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 364,
+                    "startColumn": 4,
+                    "startOffset": 20240,
+                    "endLine": 379,
+                    "endColumn": 12,
+                    "endOffset": 21069
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 380,
+                    "startColumn": 4,
+                    "startOffset": 21074,
+                    "endLine": 395,
+                    "endColumn": 12,
+                    "endOffset": 21906
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 396,
+                    "startColumn": 4,
+                    "startOffset": 21911,
+                    "endLine": 408,
+                    "endColumn": 12,
+                    "endOffset": 22578
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 409,
+                    "startColumn": 4,
+                    "startOffset": 22583,
+                    "endLine": 421,
+                    "endColumn": 12,
+                    "endOffset": 23277
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 422,
+                    "startColumn": 4,
+                    "startOffset": 23282,
+                    "endLine": 437,
+                    "endColumn": 12,
+                    "endOffset": 24142
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 438,
+                    "startColumn": 4,
+                    "startOffset": 24147,
+                    "endLine": 452,
+                    "endColumn": 12,
+                    "endOffset": 24949
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 453,
+                    "startColumn": 4,
+                    "startOffset": 24954,
+                    "endLine": 467,
+                    "endColumn": 12,
+                    "endOffset": 25758
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 468,
+                    "startColumn": 4,
+                    "startOffset": 25763,
+                    "endLine": 480,
+                    "endColumn": 12,
+                    "endOffset": 26456
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 481,
+                    "startColumn": 4,
+                    "startOffset": 26461,
+                    "endLine": 495,
+                    "endColumn": 12,
+                    "endOffset": 27267
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 496,
+                    "startColumn": 4,
+                    "startOffset": 27272,
+                    "endLine": 510,
+                    "endColumn": 12,
+                    "endOffset": 28079
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 511,
+                    "startColumn": 4,
+                    "startOffset": 28084,
+                    "endLine": 514,
+                    "endColumn": 12,
+                    "endOffset": 28247
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 515,
+                    "startColumn": 4,
+                    "startOffset": 28252,
+                    "endLine": 521,
+                    "endColumn": 12,
+                    "endOffset": 28580
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 522,
+                    "startColumn": 4,
+                    "startOffset": 28585,
+                    "endLine": 525,
+                    "endColumn": 12,
+                    "endOffset": 28772
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 526,
+                    "startColumn": 4,
+                    "startOffset": 28777,
+                    "endLine": 531,
+                    "endColumn": 12,
+                    "endOffset": 29067
+                },
+                "from": {
+                    "file": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/values/styles.xml"
+                }
+            }
+        ]
+    }
+]

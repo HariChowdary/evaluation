@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="f85f68d803354a5686fb7ab48279bc62a420161f">
+        <dex dex="/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_59754dd1371797f90045c2d6889cc332e72e20f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="19e2b0cb98bc6e0c21cfd146a40a6043c7029915">
+        <dex dex="/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dab85f186ce5831c1e6e6707bc72680cbf7ec3fc/classes.dex" />
+    </item>
+
+</items>

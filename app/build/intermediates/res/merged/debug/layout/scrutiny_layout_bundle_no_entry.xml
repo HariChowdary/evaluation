@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <EditText
+            android:id="@+id/evaluator"
+            style="@style/edittext_style2"
+            android:layout_width="300dp"
+            android:hint="Enter Evaluator ID"
+            android:maxLength="4"
+            android:inputType="textCapCharacters"
+            android:digits="1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ">
+            <requestFocus />
+        </EditText>
+        <EditText
+            android:id="@+id/et_bundle_no"
+            style="@style/edittext_style2"
+            android:layout_width="300dp"
+            android:visibility="gone"
+            android:layout_marginTop="@dimen/margin_top"
+            android:hint="Enter Bundle Number"
+            android:maxLength="4"
+            android:digits="1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+            android:inputType="textCapCharacters" >
+            <requestFocus />
+        </EditText>
+        <Spinner
+            android:id="@+id/spin_course"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_top"
+            android:layout_below="@+id/tv_sel_course"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:visibility="gone"
+            android:minWidth="300dp"
+            android:spinnerMode="dialog"
+            android:textSize="24sp" />
+        <Button
+            android:id="@+id/btn_submit"
+            style="@style/button_style"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="@string/submit" />
+    </LinearLayout>
+
+</LinearLayout>

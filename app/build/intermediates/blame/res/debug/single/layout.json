@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/build/intermediates/res/merged/debug/layout/scrutiny_option_selection.xml",
+        "source": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/layout/scrutiny_option_selection.xml"
+    },
+    {
+        "merged": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/build/intermediates/res/merged/debug/layout/layout_textview.xml",
+        "source": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/layout/layout_textview.xml"
+    },
+    {
+        "merged": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/build/intermediates/res/merged/debug/layout/coustom_dialog.xml",
+        "source": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/layout/coustom_dialog.xml"
+    },
+    {
+        "merged": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/build/intermediates/res/merged/debug/layout/scrutiny_layout_bundle_no_entry.xml",
+        "source": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/layout/scrutiny_layout_bundle_no_entry.xml"
+    },
+    {
+        "merged": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/build/intermediates/res/merged/debug/layout/empty_bundle_completed_message.xml",
+        "source": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/layout/empty_bundle_completed_message.xml"
+    },
+    {
+        "merged": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/build/intermediates/res/merged/debug/layout/scrutiny_marks_summary_activity.xml",
+        "source": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/layout/scrutiny_marks_summary_activity.xml"
+    },
+    {
+        "merged": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/build/intermediates/res/merged/debug/layout/show_bundle_completed_message.xml",
+        "source": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/layout/show_bundle_completed_message.xml"
+    },
+    {
+        "merged": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/build/intermediates/res/merged/debug/layout/small_bundle_completed_message.xml",
+        "source": "/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/src/main/res/layout/small_bundle_completed_message.xml"
+    }
+]

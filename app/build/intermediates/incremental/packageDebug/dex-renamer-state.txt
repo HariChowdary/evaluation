@@ -1,0 +1,4 @@
+#Tue Nov 15 11:48:34 EST 2016
+base.0=/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/indu/Downloads/backup final 3dm projects/final 3DM projects/SmartScrutinizationApp15/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
